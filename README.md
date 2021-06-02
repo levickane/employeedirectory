@@ -2,7 +2,7 @@
 
 ## Description
 
-This application was built in order to filter through a large list of employees/users. Start typing in the search bar and the list will be filtered down by the person's first name. Click on one of the headings and the list will be sorted in ascending order according to the section selected. A live link can be viewed [HERE](https://git.heroku.com/radiant-oasis-26121.git)
+This application was built in order to filter through a large list of employees/users. Start typing in the search bar and the list will be filtered down by the person's first name. Click on one of the headings and the list will be sorted in ascending order according to the section selected. A live link can be viewed [HERE](https://levickane.github.io/userdirectory/)
 ![employeelist](./src/images/employeeDir.png)
 
 ## Table of Contents
